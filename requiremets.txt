@@ -1,0 +1,1 @@
+python3 with installed pip and libraries such as "BeautifulSoup" and "requests"
